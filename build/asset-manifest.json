@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/anuj8655/pystrastics_demo_1/static/css/main.c7b7f74d.css",
+    "main.js": "/anuj8655/pystrastics_demo_1/static/js/main.ff9e1bee.js",
+    "static/js/787.a9b03d03.chunk.js": "/anuj8655/pystrastics_demo_1/static/js/787.a9b03d03.chunk.js",
+    "static/media/approved.jpg": "/anuj8655/pystrastics_demo_1/static/media/approved.fed3e26cd7afab4e312d.jpg",
+    "static/media/banned-side-img.jfif": "/anuj8655/pystrastics_demo_1/static/media/banned-side-img.c609c8d0217da70597ec.jfif",
+    "static/media/backgroud_image-removebg-preview.png": "/anuj8655/pystrastics_demo_1/static/media/backgroud_image-removebg-preview.10e94142691c71470a47.png",
+    "static/media/hero-main-bg.png": "/anuj8655/pystrastics_demo_1/static/media/hero-main-bg.b54b1572176a37fe55fd.png",
+    "static/media/404.png": "/anuj8655/pystrastics_demo_1/static/media/404.e45a4490ce65c5b21c9e.png",
+    "static/media/practical_logo (1).png": "/anuj8655/pystrastics_demo_1/static/media/practical_logo (1).66e43ad8143b8e4abe4c.png",
+    "static/media/g4.jpg": "/anuj8655/pystrastics_demo_1/static/media/g4.f96c684ef20eb493e32a.jpg",
+    "static/media/images.jpg": "/anuj8655/pystrastics_demo_1/static/media/images.56af2c46cc464ca3eb21.jpg",
+    "static/media/about-banner1.png": "/anuj8655/pystrastics_demo_1/static/media/about-banner1.5fbf7b3eac5f503ee185.png",
+    "static/media/emergency-service-icon-vector-12917924.jpg": "/anuj8655/pystrastics_demo_1/static/media/emergency-service-icon-vector-12917924.6b6c78a3d1bf134339a3.jpg",
+    "static/media/hero-bg.png": "/anuj8655/pystrastics_demo_1/static/media/hero-bg.0bc71b9ff06175f13637.png",
+    "static/media/g2.jpg": "/anuj8655/pystrastics_demo_1/static/media/g2.43794989d65a2ed7c52f.jpg",
+    "static/media/g1.jpg": "/anuj8655/pystrastics_demo_1/static/media/g1.9b545b12c11981d2b68a.jpg",
+    "static/media/experienceddentist.png": "/anuj8655/pystrastics_demo_1/static/media/experienceddentist.bc74913bdb961892358b.png",
+    "static/media/g3.jpg": "/anuj8655/pystrastics_demo_1/static/media/g3.7cd5d166a19bc4efa0e3.jpg",
+    "static/media/about-bg.png": "/anuj8655/pystrastics_demo_1/static/media/about-bg.b9647ba11f652f0aa912.png",
+    "static/media/josefin-sans-all-400-normal.woff": "/anuj8655/pystrastics_demo_1/static/media/josefin-sans-all-400-normal.e89cb50b139916039cdc.woff",
+    "static/media/g5.jpg": "/anuj8655/pystrastics_demo_1/static/media/g5.f9815605cf72d4909ba4.jpg",
+    "static/media/service-details-promo2.png": "/anuj8655/pystrastics_demo_1/static/media/service-details-promo2.f55d89f380c9bcdd54b6.png",
+    "static/media/service-details-promo1.png": "/anuj8655/pystrastics_demo_1/static/media/service-details-promo1.443f860249f5015c6dae.png",
+    "static/media/doctor-nurse.png": "/anuj8655/pystrastics_demo_1/static/media/doctor-nurse.25c2728a8c3138632ffe.png",
+    "static/media/bg-eye-care.png": "/anuj8655/pystrastics_demo_1/static/media/bg-eye-care.36bc02fc434a3606e8e1.png",
+    "static/media/testi1.png": "/anuj8655/pystrastics_demo_1/static/media/testi1.767c894cd77d3f416016.png",
+    "static/media/people.png": "/anuj8655/pystrastics_demo_1/static/media/people.809f7facb0adb7ce48c5.png",
+    "static/media/patient.png": "/anuj8655/pystrastics_demo_1/static/media/patient.29a5a15108e67135fcf2.png",
+    "static/media/josefin-sans-latin-400-normal.woff2": "/anuj8655/pystrastics_demo_1/static/media/josefin-sans-latin-400-normal.36152c4291179fb52202.woff2",
+    "static/media/josefin-sans-latin-ext-400-normal.woff2": "/anuj8655/pystrastics_demo_1/static/media/josefin-sans-latin-ext-400-normal.3229870392aaa18099d0.woff2",
+    "static/media/josefin-sans-vietnamese-400-normal.woff2": "/anuj8655/pystrastics_demo_1/static/media/josefin-sans-vietnamese-400-normal.4a3e569a0e9e99674d59.woff2",
+    "index.html": "/anuj8655/pystrastics_demo_1/index.html",
+    "main.c7b7f74d.css.map": "/anuj8655/pystrastics_demo_1/static/css/main.c7b7f74d.css.map",
+    "main.ff9e1bee.js.map": "/anuj8655/pystrastics_demo_1/static/js/main.ff9e1bee.js.map",
+    "787.a9b03d03.chunk.js.map": "/anuj8655/pystrastics_demo_1/static/js/787.a9b03d03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b7f74d.css",
+    "static/js/main.ff9e1bee.js"
+  ]
+}
