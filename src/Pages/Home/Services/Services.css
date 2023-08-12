@@ -1,0 +1,62 @@
+.service-wrapper {
+    background: #1B71A1;
+    /* background-image: url('../../../Images/bg-eye-care.png'); */
+    padding-bottom: 120px;
+    color: #fff;
+    background-image:url('../../../Images/bg-eye-care.png');
+    background-position:bottom;
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+.section-title {
+    margin-bottom: 27px;
+}
+
+.section-title h1 {
+    line-height: 1;
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 600;
+}
+
+.single-service-box {
+    border: 1px solid #3672bc;
+    border-radius: 10px;
+    padding: 40px 27px 50px;
+    margin-top: 30px;
+    transition: .2s;
+    background: transparent;
+    text-align: center;
+    background-color: #fff;
+    color: black;
+}
+
+.single-service-box:hover {
+    background: #fff;
+    cursor: cell;
+    border-color: transparent;
+}
+
+.service-icon {
+    margin-bottom: 44px;
+}
+
+.single-service-box h3 {
+    margin-bottom: 12px;
+    font-size: 24px;
+    font-family: "Josefin Sans", sans-serif;
+    line-height: 36px;
+}
+
+.single-service-box p {
+    color: #d7d3d3!important;
+    font-family: 'Roboto Slab', serif;
+}
+
+.single-service-box a {
+    color: #35616E !important;
+}
+
+.single-service-box a:hover {
+    color: #fc5185 !important;
+}
