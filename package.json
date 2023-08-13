@@ -1,7 +1,7 @@
 {
   "name": "donto",
   "version": "0.1.0",
-  "homepage": "https://github.com/anuj8655/pystrastics_demo_1",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@fontsource/josefin-sans": "^4.5.9",
