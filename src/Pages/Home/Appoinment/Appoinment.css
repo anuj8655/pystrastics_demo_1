@@ -1,6 +1,5 @@
 .appoinment-wrapper {
     padding-bottom: 120px;
-    background-image: url('../../../Images/about-bg.png');
     background-position:bottom;
     background-size:contain;
     background-repeat: no-repeat;
@@ -44,7 +43,6 @@ textarea {
 }
 .section-title{
     padding: 5rem;
-    background-image: url('../../../Images/people.png');
     background-repeat: no-repeat;
     background-position: center;
 }
