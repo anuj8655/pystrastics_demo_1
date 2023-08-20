@@ -15,7 +15,11 @@ import Header from "../Header/Header";
 const Home = () => {
   return (
     <>
+<<<<<<< HEAD
     <Header />
+=======
+      <Header />
+>>>>>>> 484c332dfdb3e19ed40bb1bc5fc137387fa3d53c
       <Banner />
       {/* <Feature /> */}
       <About />

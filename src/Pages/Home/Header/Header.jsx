@@ -51,7 +51,7 @@ const Header = () => {
                 <a href="/service">Virtual Visit</a>
               </div>
               </div>
-              <Link to="/contact" className="list-item text-decoration-none">
+              <Link to="/" className="list-item text-decoration-none">
                 Contact US
               </Link>
               <Link to="/">
