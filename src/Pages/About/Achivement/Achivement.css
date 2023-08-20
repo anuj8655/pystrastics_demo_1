@@ -1,7 +1,7 @@
 .achivement-wrap {
     padding:  120px 0;
     margin-bottom: 120px;
-    background: #004caa;
+    background: #B2DDED;
 }
 
 .btn-unfill {
@@ -16,11 +16,13 @@
 
 .play-btn {
     padding-right: 13px;
+    color: #283779;
 }
 
 .achivement-txt p {
     font-size: 17px;
     margin-bottom: 45px;
+    color: #283779;
 }
 
 .single-funfact {

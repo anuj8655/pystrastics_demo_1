@@ -31,30 +31,30 @@ const Header = () => {
               <Link to="/home" className="list-item text-decoration-none">
                 Home
               </Link>
-              <div class="dropdown"><Link to="/about" className="list-item text-decoration-none dropbtn">
+              <div class="dropdown"><Link to="/" className="list-item text-decoration-none dropbtn">
                 About <i aria-hidden="true" class="fas fa-caret-down"></i>
               </Link>
               <div class="dropdown-content">
-                <a href="#">Meet provider</a>
-                <a href="#">Meet Doctor</a>
-                <a href="#">Facilities</a>
+                <a href="/about">Meet provider</a>
+                <a href="/about">Meet Doctor</a>
+                <a href="/about">Facilities</a>
               </div>
               </div>
               <div class="dropdown">
               <Link
-                to="/service"
+                to="/"
                 className="list-item text-decoration-none dropbtn"
               >
                 Service <i aria-hidden="true" class="fas fa-caret-down"></i>
               </Link>
               <div class="dropdown-content">
-                <a href="#">Virtual Visit</a>
+                <a href="/service">Virtual Visit</a>
               </div>
               </div>
               <Link to="/contact" className="list-item text-decoration-none">
                 Contact US
               </Link>
-              <Link to="/login">
+              <Link to="/">
                 <button className="list-item text-decoration-none theme-btn btn-fill" style={{borderRadius: "40px"}}>Book Appoinment</button>
               </Link>
               {/* {user.email 

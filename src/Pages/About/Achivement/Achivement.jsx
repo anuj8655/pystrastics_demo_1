@@ -18,7 +18,7 @@ const Achivement = () => {
                             <p className="w-75">Smiling comes naturally to Dr. Harrie, author of ‘Donto’. He has embraced Cosmetic Dentistry and has redesigned the smiles for thev thousands of patients.</p>
                             <div className="more-tool">
                             <Link to="/login"><button  className="theme-btn btn-fill">Appoinment</button></Link>
-                            <a href="https://www.youtube.com/watch?v=7HhdN9_MgE8" className="watchBtn"><button className="theme-btn btn-unfill"><FontAwesomeIcon className="play-btn" icon={faPlayCircle} /><span>Watch Vedio</span></button></a>
+                            <a href="https://www.youtube.com/watch?v=7HhdN9_MgE8" className="watchBtn"><button className="theme-btn btn-unfill"><FontAwesomeIcon className="play-btn" icon={faPlayCircle} /><span style={{color:"#283779"}}>Watch video</span></button></a>
                             </div>
                         </div>
                     </Col>
@@ -33,7 +33,7 @@ const Achivement = () => {
                             <Col sm={6} className="text-center">
                                 <div className="single-funfact">
                                     <span>75 +</span>
-                                    <p>Dentist</p>
+                                    <p>Phystraistics</p>
                                 </div>
                             </Col>
                             <Col sm={6} className="text-center">

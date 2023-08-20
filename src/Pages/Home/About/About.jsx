@@ -64,7 +64,7 @@ const About = () => {
     // </section>
     <section>
       <section className="pb-0" id="about">
-        <div className="container" style={{ marginTop: "10rem" }}>
+        <div className="container" style={{ marginTop: "100px" }}>
           <div className="row">
             <div className="col-12 py-3 bg-holder-image">
               <div className="bg-holder bg-size"></div>
@@ -83,7 +83,7 @@ const About = () => {
               style={{ borderRadius: "50%" }}
             >
               <img
-                className="fit-cover rounded-circle w-100"
+                className="fit-cover rounded-circle w-90"
                 src="https://themewagon.github.io/medico/img/top_service.png"
                 alt="..."
               />
@@ -108,7 +108,7 @@ const About = () => {
                   className="btn btn-lg btn-outline-primary rounded-pill"
                   type="submit"
                 >
-                  Learn more
+                  Known more
                 </button>
               </div>
               <div class="banner_item">

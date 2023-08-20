@@ -1,8 +1,7 @@
 .appoinment-wrapper {
     padding-bottom: 120px;
-    background-image: url('../../../Images/about-bg.png');
-    background-position:bottom;
-    background-size:contain;
+    background-position: bottom;
+    background-size: contain;
     background-repeat: no-repeat;
     /* color: #DCEFF6; */
 }
@@ -14,7 +13,8 @@
     margin-left: -15px;
 }
 
-.appoinment-form form input, .appoinment-form form textarea {
+.appoinment-form form input,
+.appoinment-form form textarea {
     border-radius: 5px;
     background-color: #fff;
     box-shadow: 5.288px 11.876px 40px 0 rgb(0 0 0 / 5%);
@@ -42,9 +42,10 @@ textarea {
 .form-btn:hover {
     border: 1px solid #fc5185 !important;
 }
-.section-title{
-    padding: 5rem;
-    background-image: url('../../../Images/people.png');
+
+.section-title {
+    text-align: center;
+    padding: 100px;
     background-repeat: no-repeat;
     background-position: center;
 }
