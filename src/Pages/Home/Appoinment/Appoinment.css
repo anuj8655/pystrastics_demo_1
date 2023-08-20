@@ -1,12 +1,7 @@
 .appoinment-wrapper {
     padding-bottom: 120px;
-<<<<<<< HEAD
     background-position: bottom;
     background-size: contain;
-=======
-    background-position:bottom;
-    background-size:contain;
->>>>>>> 484c332dfdb3e19ed40bb1bc5fc137387fa3d53c
     background-repeat: no-repeat;
     /* color: #DCEFF6; */
 }
@@ -47,15 +42,9 @@ textarea {
 .form-btn:hover {
     border: 1px solid #fc5185 !important;
 }
-<<<<<<< HEAD
 
-.section-title {
-    text-align: center;
-    padding: 100px;
-=======
 .section-title{
     padding: 5rem;
->>>>>>> 484c332dfdb3e19ed40bb1bc5fc137387fa3d53c
     background-repeat: no-repeat;
     background-position: center;
 }
