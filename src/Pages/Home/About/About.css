@@ -136,3 +136,28 @@
     position:relative;
     z-index: 1;
 }
+
+.side-left-img{
+    border-radius: "50%";
+}
+
+@media screen and (max-width: 1000px) {
+    .rounded-circle{
+        height: 500px;
+        width: 350px;
+    }
+    .feature-item{
+        height: 50px;
+        width: 50px;
+    }
+    .single_item{
+        font-size: 20px;
+        height: 70px;
+        width: 80px;
+    }
+}
+
+.feature-item{
+    height: 50px;
+    width: 50px;
+}
