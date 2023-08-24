@@ -3,6 +3,8 @@
 .container-head {
     /* background: #fff; */
     border-radius: 10px;
+    margin: 0 auto;
+    /* margin-left: 100px; */
     /* transition: all .5s ease-in-out; */
     /* padding: 0 30px; */
     /* background-color: #B2DDED; */
@@ -12,12 +14,15 @@
 
 .menu_fixed {
     position: fixed;
-    background-color: rgb(178,221,237,0.9);
+    background-color: rgb(178, 221, 237, 0.9);
     box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.05);
     border-radius: 10px;
     /* padding: 0 0 0 80px; */
     width: 100%;
-    margin-left: 50px;
+    /* margin-left: 50px; */
+}
+.fixed-top{
+    width: 400px;
 }
 
 /* .head-bg {
@@ -168,6 +173,12 @@
 
 @media screen and (min-width: 1000px) {
     .menu_fixed {
-        margin-left: 0px;
+        margin-left: 50px;
+    }
+    .container-head {
+        margin-left: 100px;
+    }
+    .fixed-top{
+        width: 100%;
     }
 }
