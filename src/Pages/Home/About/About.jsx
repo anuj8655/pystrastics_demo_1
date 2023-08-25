@@ -18,50 +18,6 @@ const About = () => {
     AOS.refresh();
   }, []);
   return (
-    // <section className="about-wrapper">
-    //     <Container>
-    //         <Row>
-    //             <Col md={12} lg={6}>
-    //                 <div className="about-left">
-    //                     <img src={donto} alt="donto" className="img-fluid donto" />
-    //                     <img src={dontoAnimated} alt="donto" className="img-fluid animated dontoAnim" />
-    //                 </div>
-    //             </Col>
-    //             <Col md={12} lg={6}>
-    //                 <div className="about-right mt-5 mt-lg-0">
-    //                     <div className="about-content text-start" data-aos="zoom-in">
-    //                         <h1>Welcome to a Family</h1>
-    //                         <p>Welcome to Datobbo Dental represents everything going to dentist necessary. We have upgraded your dreaded dentist appointment and transformed it into a relaxing. Consectetur adipisicing elit. Quod ea, consequuntur itaque enim et expedita, optio omnis ipsa magni, perspiciatis totam ipsum! Voluptatibus, neque at.</p>
-    //                         <a href='/page/about'>About Us</a>
-    //                     </div>
-    //                     <div className="fun-fact-sec" data-aos="fade-right">
-    //                         <div className="single-fun">
-    //                             <span>500</span>
-    //                             <span>+</span>
-    //                             <p>Happy Patients</p>
-    //                         </div>
-    //                         <div className="single-fun sp-fun" data-aos="fade-right">
-    //                             <span>88</span>
-    //                             <span>+</span>
-    //                             <p>Qualified Doctors</p>
-    //                         </div>
-    //                         <div className="single-fun" data-aos="fade-left">
-    //                             <span>25</span>
-    //                             <span>+</span>
-    //                             <p>Years Experience</p>
-    //                         </div>
-    //                         <div className="single-fun sp-fun" data-aos="fade-left">
-    //                             <span>50</span>
-    //                             <span>+</span>
-    //                             <p>Dental Awards</p>
-    //                         </div>
-    //                         <span className="line"></span>
-    //                     </div>
-    //                 </div>
-    //             </Col>
-    //         </Row>
-    //     </Container>
-    // </section>
     <section>
       <section className="pb-0" id="about">
         <div className="container" style={{ marginTop: "100px" }}>
@@ -78,10 +34,7 @@ const About = () => {
 
         <div className="container bg-image">
           <div className="row align-items-center">
-            <div
-              className="col-md-6 order-lg-1 mb-5 mb-lg-0"
-              style={{ borderRadius: "50%" }}
-            >
+            <div className="side-left-img col-md-6 order-lg-1 mb-5 mb-lg-0">
               <img
                 className="fit-cover rounded-circle w-90"
                 src="https://themewagon.github.io/medico/img/top_service.png"
@@ -111,29 +64,17 @@ const About = () => {
                   Known more
                 </button>
               </div>
-              <div class="banner_item">
-                <div class="single_item">
-                  <img
-                    src={feature1}
-                    alt=""
-                    style={{ height: "5rem", width: "5rem" }}
-                  />
+              <div className="banner_item">
+                <div className="single_item">
+                  <img class="feature-item" src={feature1} alt="" />
                   <h5>Service</h5>
                 </div>
-                <div class="single_item">
-                  <img
-                    src={feature2}
-                    alt=""
-                    style={{ height: "5rem", width: "5rem" }}
-                  />
-                  <h5>Appointment</h5>
+                <div className="single_item">
+                  <img class="feature-item" src={feature2} alt="" />
+                  <h6>Appointment</h6>
                 </div>
-                <div class="single_item">
-                <img
-                    src={feature3}
-                    alt=""
-                    style={{ height: "5rem", width: "5rem" }}
-                  />
+                <div className="single_item">
+                  <img class="feature-item" src={feature3} alt="" />
                   <h5>24/7 Service</h5>
                 </div>
               </div>

@@ -3,13 +3,16 @@
 .container-head {
     /* background: #fff; */
     border-radius: 10px;
+    width: 100%;
     /* transition: all .5s ease-in-out; */
-    padding: 0 30px;
+    /* padding: 0 30px; */
     /* background-color: #B2DDED; */
     /* position: fixed;
     margin-top: 2rem; */
 }
-
+.navbarToogle{
+    background-color: white;
+}
 .menu_fixed {
     position: fixed;
     background-color: rgb(178,221,237,0.9);
@@ -17,7 +20,7 @@
     border-radius: 10px;
     /* padding: 0 0 0 80px; */
     width: 100%;
-    margin-left: 100px;
+
 }
 
 /* .head-bg {
@@ -163,4 +166,14 @@
 .btn-fill {
     margin-right: 20px;
     color: #142b32;
+}
+
+
+@media screen and (min-width: 1000px) {
+    .menu_fixed {
+        margin-left: 50px;
+    }
+    .navbarToogle{
+        background-color: #B2DDED;
+    }
 }

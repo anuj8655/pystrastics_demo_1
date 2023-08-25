@@ -1,8 +1,6 @@
 .single-hero-slide {
     /* background-color: #B2DDED; */
-    background-image: url('../../../Images/hero-bg.png');
-    background-size: cover;
-    padding-top: 10px;
+    /* padding-top: 100px; */
     /* padding-bottom: 220px; */
     font-family: "Josefin Sans", sans-serif;
     padding-bottom: 10px;
@@ -10,6 +8,9 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    background-image: url('../../../Images/hero-bg.png');
+    background-size: cover;
+    position: relative;
 }
 
 .hero-slide-left {
@@ -17,6 +18,7 @@
     margin-top: 20px;
     font-family: "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     display: inline-block;
+    text-align: center;
 }
 
 .hero-slide-left h2 {
@@ -34,23 +36,24 @@
 }
 
 .hero-slide-left p {
-    color: #2D7EAA!important;
+    color: #2D7EAA !important;
     font-family: "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .hero-slide-left button {
     margin-top: 40px;
     font-weight: 700;
-    outline: none!important;
+    outline: none !important;
     cursor: pointer;
     font-family: 'Roboto Slab', serif;
 }
+
 .theme-btn {
     display: inline-block;
     border: 1px solid #283779;
     height: 61px;
     text-align: center;
-    line-height: 55px!important;
+    line-height: 55px !important;
     background: #283779;
     text-transform: capitalize;
     border-radius: 3px;
@@ -58,6 +61,7 @@
     transition: .4s;
     font-weight: 600;
 }
+
 @media (max-width: 445px) {
 
     /* banner */
@@ -85,7 +89,7 @@
 
 .btn-fill:hover {
     background: #fff;
-    color: #000!important;
+    color: #000 !important;
     border-color: #fff;
 }
 
@@ -96,7 +100,7 @@
 
 .bth-blank:hover {
     border-color: #fc5185;
-    color: #fff!important;
+    color: #fff !important;
     background: #fc5185;
 }
 
@@ -126,9 +130,35 @@
     animation-direction: alternate;
 }
 
-.img-fluid{
+.img-fluid {
     background-image: url('../../../Images/backgroud_image-removebg-preview.png');
     height: 25rem;
     width: 40rem;
     background-size: contain;
+}
+
+.hero-slide-right {
+    padding-top: 60px;
+}
+
+
+@media screen and (max-width: 1000px) {
+    .single-hero-slide {
+        padding-top: 100px;
+    }
+
+    .hero-slide-right {
+        height: 400px;
+        width: 550px;
+        margin-bottom: 10px;
+        /* margin-left: 150px; */
+        /* padding-top: 0px; */
+    }
+    .hero-slide-left {
+        padding-right: 0px;
+        margin-top: 20px;
+        font-family: "Roboto", "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        display: inline-block;
+        text-align: center;
+    }
 }

@@ -9,7 +9,6 @@ import Appoinment from "../Appoinment/Appoinment";
 import Banner from "../Banner/Banner";
 import Gallery from "../Gallery/Gallery";
 import Slick from "../Slick/Slick";
-import Testimonial from "../Testimonial/Testimonial";
 import Header from "../Header/Header";
 
 const Home = () => {

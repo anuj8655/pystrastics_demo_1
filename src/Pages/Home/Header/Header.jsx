@@ -26,7 +26,7 @@ const Header = () => {
             <img src={logo} alt="logo" style={{height:"4rem"}} />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" expand="lg" />
-          <Navbar.Collapse id="basic-navbar-nav">
+          <Navbar.Collapse className="navbarToogle">
             <Nav className="ms-auto align-items-center">
               <Link to="/home" className="list-item text-decoration-none">
                 Home

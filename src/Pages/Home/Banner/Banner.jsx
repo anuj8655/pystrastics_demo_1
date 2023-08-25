@@ -36,8 +36,7 @@ const Banner = () => {
           {/* </Col> */}
           {/* <Col md={12} sm={12} lg={6} className="mt-sm-5"> */}
           <div
-            class="col-md-5 col-xl-6 col-xxl-7 order-0 order-md-1 text-end mt-sm-5"
-            style={{ paddingTop: "6rem" }}
+            class="hero-slide-right col-md-5 col-xl-6 col-xxl-7 order-0 order-md-1 text-end mt-sm-5"
           >
             <img class="pt-7 pt-md-0 w-100" src={side_image} />
           </div>
